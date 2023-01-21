@@ -7,6 +7,7 @@ body {
     background: #85929e;
     padding: 20px;
     height: 850px;
+    
 }
 
 .container div {
@@ -17,10 +18,9 @@ body {
 .green {
     background: green;
     height: 100px;
-    position: absolute;
-    bottom: 20px;
-    right: 50px;
     
+   
+
 }
 
 .red {
