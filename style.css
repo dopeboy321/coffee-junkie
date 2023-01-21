@@ -2,33 +2,3 @@ body {
     background: #5D6D7E;
     height: 200vh;
 }
-
-.container {
-    background: #85929e;
-    padding: 20px;
-    height: 850px;
-    
-}
-
-.container div {
-    margin: 5px;
-    width: 500px;
-}
-
-.green {
-    background: green;
-    height: 100px;
-    
-   
-
-}
-
-.red {
-    background: red;
-    height: 200px;
-}
-
-.blue {
-    background: blue;
-    height: 200px;
-}
